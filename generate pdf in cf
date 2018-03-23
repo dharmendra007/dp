@@ -1,0 +1,6 @@
+
+<cfdocument format="PDF">
+   <cfoutput>
+   hello #dateformat(now(), "short")#
+   </cfoutput>
+</cfdocument>
